@@ -1,0 +1,9 @@
+{
+    "name": "agri-spoil-multiplier",
+    "version": "1.0",
+    "title": "Agricultural Science Spoil Multiplier",
+    "author": "Visnes",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0.2", "?space-age"],
+    "description": "Let's you change the spoil time for agricultural science from 0.5x (twice as fast), 1x (default) to 10000x instead of removing spoilage all together."
+  }
