@@ -1,5 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 2026-11-13
+  Bugfixes:
+    - Fixed load crash "attempt to index field 'tool' (a nil value)" with Krastorio 2 Spaced Out and other mods that move science packs out of the tool prototype type.
+    - Spoil time is now rounded to whole ticks and capped at the engine maximum.
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2026-07-08
+  Changes:
+    - Added version support for 2.1 Experimental.
+  Bugfixes:
+    - Fixed the multiplier being applied twice (the effective factor was the setting squared).
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-10-26
-  Updates:
+  Features:
     - Initial release.

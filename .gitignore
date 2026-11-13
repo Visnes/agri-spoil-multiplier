@@ -1,0 +1,13 @@
+# Build output
+*.zip
+
+# Claude Code (local only, not published)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# OS / Dropbox junk
+Thumbs.db
+desktop.ini
+.dropbox
+.dropbox.attr
